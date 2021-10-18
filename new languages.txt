@@ -1,0 +1,9 @@
+- info
+- contents
+- IDE - language hello world
+- new concepts - from java to language
+- word cheatsheet
+- 1-hour course
+- folder small projects and problems
+
+ 
