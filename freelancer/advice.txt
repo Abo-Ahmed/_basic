@@ -1,0 +1,29 @@
+حابب اكلمكوا النهاردة عن topic مهم جدا و هو
+How to write a professional and engaging bio ?
+ازاي اكتب بايو عني كويس في اي موقع freelancing ؟
+اولا انهي اهم؟ ال proposal ولا ال bio في ال profile بتاعك؟
+وجهة نظرى: انا شايف الproposal اهم طبعا لان هي اول حاجة العميل بيقراها عنك لما تسجل علي اي شغل معاه. بس ال bio بتاعك مهم جدا بردو لأن بعد ما يعجبه ال proposal هيدخل عندك لأنه اكيد مش هيدفع فلوس لحد من غير مايبقي واثق انه قادر يخلصله المشروع.
+اول حاجة بيشوفها في البروفايل بتاعك هي النبذة الصغيرة عنك او ال bio
+النقط دي حاول دايما تراعيها و انت بتكتب ال bio:
+١- ابدأ بسؤال تخاطب بيه العميل اللي داخل عندك. كله بيبدأ بتعريف نفسه، اسمه، خبرته و غيره. بس العميل مهتم اكتر يشوف حاجة فيك تخص الشغل اللي هو طالبه، زي مثلا:
+Are you searching for someone to develop you a complete SPA app?
+Are you seeking a completely responsive website with reusable components so you can customize easily?
+I'll be happy to help you with that.
+ 
+٢- بعد كدا عرف نفسك، بصورة مختصرة مع التركيز علي اهم الحاجات اللي انت شاطر فيها. يعني مش اي حاجة اتعلمتها احطها عشان اكتر اللغات و ال frameworks اللي مكتوبة؟ لا خالص، يكفي الكام حاجة اللي انت شاطر فيهم زي مثلا
+I'm Kirollos, a frontend developer with core expertise in Vue/Nuxt, sass, bootstrap, gulp, and much more frameworks and bundling tools.
+ 
+٣- اهتم بعد كدا تقول جملتين تلاتة فيها ارقام شوية عشان الارقام دايما بتشد العين وسط القراية. اتكلم عن عدد سنين خبرتك، عدد المشاريع الكبيرة اللي اشتغلت عليها و غيره. طبعا لو الارقام قليلة فبلاش من النقطة دي خالص. مثال:
+I've more than 6 years of experience in working with single page applications, creating custom javascript libraries and components, contributed to 10+ open source projects in the same field.
+ 
+٤- مهم جدا ان كلامك في ال bio يبقي موجه للعميل ال non-technical و ال technical مش واحد منهم بس. العميل اللي فاهم اسماء الحاجات اللي قلتها فوق دا خلاص عرف خبرتي. العميل اللي مش فاهم بس just عايز حد يعمله مشروع هيركز علي حاجات تانية في كلامك و هي الميزات اللي في ال products بتاعتكو جودة الشغل و غيره. زى مثلا
+  My websites are always:
+  1- completely responsive
+  2- written using latest technologies and trends in addition to clean code
+  3- SEO optimized
+  4- speed optimized and score 95% + on Gtmetrix and page speed insights
+و غيره كتير من الحاجات اللي ممكن تشد العميل اللي معندهوش خبرة في اسماء الحاجات اللي ذكرتها في بداية الكلام
+٥- انهي كلامك بطريقة friendly
+  Need to discuss more details in chat?
+  I'll be happy to do so.
+ 
